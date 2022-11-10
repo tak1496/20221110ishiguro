@@ -1,0 +1,14 @@
+﻿問題①
+
+解答
+①PHP
+②Model
+③View
+④Controller
+⑤Request
+⑥SELECT
+⑦INSERT
+⑧UPDATE
+⑨Router
+⑩blade
+
